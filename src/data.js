@@ -13,9 +13,9 @@ export const profile = {
   email: 'abizarabrarr@gmail.com',
   phone: '0811-8439-002',
   linkedin: 'https://linkedin.com/in/abizartsaqifabrar',
-  github: '', // add GitHub profile URL
+  github: 'https://github.com/iz4re', // add GitHub profile URL
   resumeUrl: '', // add path/link to resume PDF, e.g. '/resume.pdf'
-  avatarUrl: '', // add profile photo path
+  avatarUrl: '/foto-profil.jpg', // add profile photo path
 }
 
 export const aboutStats = [

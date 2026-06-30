@@ -71,7 +71,7 @@ export default function Hero() {
           <div className="relative">
             <div className="w-56 h-56 sm:w-72 sm:h-72 md:w-80 md:h-80 rounded-3xl bg-subtle border border-line overflow-hidden flex items-center justify-center shadow-card">
               {profile.avatarUrl ? (
-                <img src={profile.avatarUrl} alt={profile.name} className="w-full h-full object-cover" />
+                <img src={profile.avatarUrl} alt={profile.name} className="w-full h-full object-cover object-top" />
               ) : (
                 <User size={72} className="text-muted/40" strokeWidth={1.2} />
               )}

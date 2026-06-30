@@ -15,8 +15,7 @@ export default function Projects() {
           <p className="eyebrow mb-3">Projects</p>
           <h2 className="section-title">Selected work</h2>
           <p className="section-sub">
-            A mix of academic, competition, and personal projects. Replace these placeholders with real
-            screenshots, links, and write-ups — duplicate the object in <code className="text-xs bg-subtle border border-line rounded px-1 py-0.5">src/data.js</code> for more.
+            A mix of academic, competition, and personal projects.
           </p>
         </motion.div>
 

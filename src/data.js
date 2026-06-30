@@ -14,7 +14,7 @@ export const profile = {
   phone: '0811-8439-002',
   linkedin: 'https://linkedin.com/in/abizartsaqifabrar',
   github: 'https://github.com/iz4re', // add GitHub profile URL
-  resumeUrl: '', // add path/link to resume PDF, e.g. '/resume.pdf'
+  resumeUrl: '/cv.pdf', // add path/link to resume PDF, e.g. '/resume.pdf'
   avatarUrl: '/foto-profil.jpg', // add profile photo path
 }
 
